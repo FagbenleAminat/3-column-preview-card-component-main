@@ -1,0 +1,105 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [body]{
+        min-width: 360px;
+        max-width: 768px
+    }
+    [class*="container"] {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        border-radius: 15px;
+        box-sizing: border-box;
+        padding-top: 20px;
+        padding-bottom: 20px
+      }
+      [img]{
+        height: 150px;
+        width: 150px;
+      }
+      [footer]{
+       padding: 10px;
+      }
+    }
+
+body{
+    font-family: Lexend Deca;
+    font-weight: 400;
+}
+
+.outside{
+    background-color:hsla(0, 0%, 100%, 0.75);
+}
+.container{
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+    margin: 100px auto;
+    height: 350px;
+    width: 900px;
+}
+.Sedans{
+    background-color: hsl(31, 77%, 52%);
+    display: flex;
+    align-items: flex-start;
+    padding: 35px;
+    flex-direction: column;
+}
+.SUV{
+    background-color: hsl(184, 100%, 22%);
+    display: flex;
+    align-items: flex-start;
+    padding: 35px;
+    flex-direction: column;
+    }
+.Luxury{
+        background-color:hsl(179, 100%, 13%);
+        display: flex;
+    align-items: flex-start;
+    padding: 35px;
+    flex-direction: column;
+        }
+h1{
+    color:hsl(0, 0%, 95%);
+    /* padding:0 35px; 
+    /* text-align: start; */
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 5px 0px
+    ;
+}
+button{
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 10px;
+    text-align: center;
+    margin: 15px 0;
+    width: 100px;
+    border-radius: 35px;
+    display: flex;
+    justify-content: space-around;
+    padding: 7px;
+    flex-wrap: wrap;
+    align-content: center;
+    border-top-color:white ;
+    border-right-color: white;
+    border-bottom-color: white;
+    border-left-color:white ;
+}
+.first{
+    color:hsl(31, 77%, 52%) ;
+}
+.second{
+   color: hsl(184, 100%, 22%);
+
+}
+.third{
+    color: hsl(179, 100%, 13%);
+}

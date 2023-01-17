@@ -1,10 +1,10 @@
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    [body]{
+    body{
         min-width: 360px;
         max-width: 768px
     }
-    [class*="container"] {
+    .container {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -18,12 +18,13 @@
         box-sizing: border-box;
         padding-top: 20px;
         padding-bottom: 20px
+        
       }
-      [img]{
+      img{
         height: 150px;
         width: 150px;
       }
-      [footer]{
+      footer{
        padding: 10px;
       }
     }
@@ -50,6 +51,7 @@ body{
     align-items: flex-start;
     padding: 35px;
     flex-direction: column;
+    border-radius: 10px 0px 0px 10px;
 }
 .SUV{
     background-color: hsl(184, 100%, 22%);
@@ -64,6 +66,7 @@ body{
     align-items: flex-start;
     padding: 35px;
     flex-direction: column;
+    border-radius: 0px 10px 10px 0px;
         }
 h1{
     color:hsl(0, 0%, 95%);

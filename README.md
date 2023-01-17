@@ -4,15 +4,11 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -42,8 +38,8 @@ I am surely taking more css related projects. I feel there is a lot to learn.
 
 ## Author
 You can connect with me here:
-- LinkedIn - 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - https://www.linkedin.com/in/aminat-o-fagbenle-729907202
+- Twitter - [@o_fagbenle](https://twitter.com/o_fagbenle?t=gC_cB6vWYoSNpSgWKhTt4A&s=08)
 
 
 
